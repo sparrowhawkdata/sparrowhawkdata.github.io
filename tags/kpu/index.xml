@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kpu on Sparrowhawk Data</title>
+    <link>https://www.sparrowhawkdata.com/tags/kpu/</link>
+    <description>Recent content in Kpu on Sparrowhawk Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sparrowhawk Data</copyright>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sparrowhawkdata.com/tags/kpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;Fast Track&#39; Bump Chart</title>
+      <link>https://www.sparrowhawkdata.com/gallery/fast-track-bump-chart/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/gallery/fast-track-bump-chart/</guid>
+      <description>I made this bump chart for a work go-karting event, for fun!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/gallery/fast-track-bump-chart/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

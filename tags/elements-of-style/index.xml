@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elements of Style on Sparrowhawk Data</title>
+    <link>https://www.sparrowhawkdata.com/tags/elements-of-style/</link>
+    <description>Recent content in Elements of Style on Sparrowhawk Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sparrowhawk Data</copyright>
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sparrowhawkdata.com/tags/elements-of-style/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elements of Dataviz Style: Crafting Good Titles</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-titles/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-titles/</guid>
+      <description>Most leaders in the data visualization space maintain that visualizations should have a clear, focused message.
+Stephanie Evergreen (of Evergreen Data) says that we &amp;ldquo;visualize to communicate a point.&amp;rdquo; If we don&amp;rsquo;t have a point, why visualize?
+Mike Bostock (of Observable, and d3.js fame) says good dataviz &amp;ldquo;should be opinionated.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-titles/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elements of Dataviz Style: Hierarchy</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-hierarchy/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-hierarchy/</guid>
+      <description>I recently attended a talk by Steve Franconeri of the Visual Thinking Lab whose big takeaway was that &amp;ldquo;reading a graph is like reading a paragraph.&amp;rdquo; Even though graphs are visual, we rely on slow cognitive operations to process them. Recognition is quick, but comparison takes a lot more time.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-hierarchy/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elements of Dataviz Style: Clearing Clutter</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-clearing-clutter/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-clearing-clutter/</guid>
+      <description>The more stuff we have in a chart, the longer it takes to read.
+Whether you&amp;rsquo;re working with Excel, Tableau, Observable, or ggplot2, by default charting software tends to add all sorts of extra elements like borders, gridlines, legends, and extra labels.
+In other words, chart clutter.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-clearing-clutter/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elements of Dataviz Style: Keeping It Simple</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-keeping-it-simple/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-keeping-it-simple/</guid>
+      <description>I frequently see charts with too many dimensions, 3D shapes, or awful tangentially-related clip art. Generally, artistic elements should be functional and we should avoid unnecessary complexity.
+Now, complexity is fine. Often we simply fail at making complexity approachable.
+Beauty is important (how else do we expect viz to catch the eye?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-keeping-it-simple/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elements of Dataviz Style: Selecting a Chart Type</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-selecting-a-chart-type/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-selecting-a-chart-type/</guid>
+      <description>Welcome to &amp;lsquo;Elements of Dataviz Style&amp;rsquo;, where I&amp;rsquo;ll be distilling data visualization research and best practices down into guiding design principles.
+We&amp;rsquo;ve all seen bad charts.
+Chances are, their creators weren&amp;rsquo;t guided by any principles, but just figured things out as they went. I worked this way for a long time, and my early charts were awful.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-selecting-a-chart-type/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Sparrowhawk Data</title>
+    <link>https://www.sparrowhawkdata.com/resources/</link>
+    <description>Recent content in Resources on Sparrowhawk Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sparrowhawk Data</copyright>
+    <lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sparrowhawkdata.com/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palette Check</title>
+      <link>https://www.sparrowhawkdata.com/resources/palettes/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/resources/palettes/</guid>
+      <description>Compiled information from the Palette Check series on Instagram. Find out if that popular palette is up to snuff! Palettes are checked for text contrast ratios and simulated in different kinds of colourblind vision (using reputable, peer-reviewed methods).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/resources/palettes/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

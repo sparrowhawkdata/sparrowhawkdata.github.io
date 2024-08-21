@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pictograph on Sparrowhawk Data</title>
+    <link>https://www.sparrowhawkdata.com/tags/pictograph/</link>
+    <description>Recent content in Pictograph on Sparrowhawk Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sparrowhawk Data</copyright>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sparrowhawkdata.com/tags/pictograph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Viztory: Sumerian Tablets</title>
+      <link>https://www.sparrowhawkdata.com/posts/data-viztory-sumerian-tablets/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/data-viztory-sumerian-tablets/</guid>
+      <description>Join us as we explore the ways data have been visualized throughout history, from ancient times to the modern era.
+Today we look at Sumerian clay tokens and tablets, which were used at least 6000 years ago and eventually developed into the first writing system.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/data-viztory-sumerian-tablets/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

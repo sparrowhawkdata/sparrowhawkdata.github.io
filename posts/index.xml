@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sparrowhawk Data</title>
+    <link>https://www.sparrowhawkdata.com/posts/</link>
+    <description>Recent content in Posts on Sparrowhawk Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sparrowhawk Data</copyright>
+    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sparrowhawkdata.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Makeover Monday: August 19, 2024</title>
+      <link>https://www.sparrowhawkdata.com/posts/2024-08-19-makeover-monday/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/2024-08-19-makeover-monday/</guid>
+      <description>A friend sent me this line chart, presumably published in the print edition of the Irish Times. They had the same chart published on their website with corrected data, and have since corrected the y-axis direction. So props to them for making it a bit more intuitive.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/2024-08-19-makeover-monday/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elements of Dataviz Style: Crafting Good Titles</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-titles/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-titles/</guid>
+      <description>Most leaders in the data visualization space maintain that visualizations should have a clear, focused message.
+Stephanie Evergreen (of Evergreen Data) says that we &amp;ldquo;visualize to communicate a point.&amp;rdquo; If we don&amp;rsquo;t have a point, why visualize?
+Mike Bostock (of Observable, and d3.js fame) says good dataviz &amp;ldquo;should be opinionated.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-titles/featured.png" />
+    </item>
+    
+    <item>
+      <title>Makeover Monday: August 12, 2024</title>
+      <link>https://www.sparrowhawkdata.com/posts/2024-08-12-makeover-monday/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/2024-08-12-makeover-monday/</guid>
+      <description>I came across these enrolment projections from BC&amp;rsquo;s School District 43 (aka SD43) while working on another project. School districts are usually pretty bad at data viz, but really, who can blame them? It&amp;rsquo;s not like kids won&amp;rsquo;t go to school just because the district doesn&amp;rsquo;t have a clear communication strategy, and budgets tend to be on the tighter side.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/2024-08-12-makeover-monday/featured.png" />
+    </item>
+    
+    <item>
+      <title>Makeover Monday: August 5, 2024</title>
+      <link>https://www.sparrowhawkdata.com/posts/2024-08-05-makeover-monday/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/2024-08-05-makeover-monday/</guid>
+      <description>I found this stacked bar chart by Vancouver consulting firm OXD while working on another project. Since they do design consulting, OXD&amp;rsquo;s visualizations are usually pretty good, but I found this one took too long to read.
+The visualization comes from the Anti-racism Online Engagement Report OXD developed for the Government of British Columbia.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/2024-08-05-makeover-monday/featured.png" />
+    </item>
+    
+    <item>
+      <title>Data Viztory: Sumerian Tablets</title>
+      <link>https://www.sparrowhawkdata.com/posts/data-viztory-sumerian-tablets/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/data-viztory-sumerian-tablets/</guid>
+      <description>Join us as we explore the ways data have been visualized throughout history, from ancient times to the modern era.
+Today we look at Sumerian clay tokens and tablets, which were used at least 6000 years ago and eventually developed into the first writing system.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/data-viztory-sumerian-tablets/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elements of Dataviz Style: Hierarchy</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-hierarchy/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-hierarchy/</guid>
+      <description>I recently attended a talk by Steve Franconeri of the Visual Thinking Lab whose big takeaway was that &amp;ldquo;reading a graph is like reading a paragraph.&amp;rdquo; Even though graphs are visual, we rely on slow cognitive operations to process them. Recognition is quick, but comparison takes a lot more time.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-hierarchy/featured.png" />
+    </item>
+    
+    <item>
+      <title>Makeover Monday: July 29, 2024</title>
+      <link>https://www.sparrowhawkdata.com/posts/2024-07-29-makeover-monday/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/2024-07-29-makeover-monday/</guid>
+      <description>I stumbled upon this donut chart by Global Forest Watch, which is a project of the World Resources Institute. If you&amp;rsquo;re not familiar with Global Forest Watch, they do a lot of dataviz related to forest cover, deforestation, forest fires, and climate change, much of which can be found in their dashboard.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/2024-07-29-makeover-monday/featured.png" />
+    </item>
+    
+    <item>
+      <title>Data Viztory: Indigenous Beadwork</title>
+      <link>https://www.sparrowhawkdata.com/posts/data-viztory-indigenous-beadwork/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/data-viztory-indigenous-beadwork/</guid>
+      <description>Join us as we explore the ways data have been visualized throughout history, from ancient times to the modern era.
+Today, we look at Indigenous beadwork, which was (and still is) used as a way to embed information and meaning into everyday objects. Beadwork is present in many cultures around the world, but the various Indigenous Peoples of North America have been creating beadwork for over 8,000 years (having its start around 6,500 BCE, as far as we know).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/data-viztory-indigenous-beadwork/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elements of Dataviz Style: Clearing Clutter</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-clearing-clutter/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-clearing-clutter/</guid>
+      <description>The more stuff we have in a chart, the longer it takes to read.
+Whether you&amp;rsquo;re working with Excel, Tableau, Observable, or ggplot2, by default charting software tends to add all sorts of extra elements like borders, gridlines, legends, and extra labels.
+In other words, chart clutter.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-clearing-clutter/featured.png" />
+    </item>
+    
+    <item>
+      <title>Makeover Monday: July 22, 2024</title>
+      <link>https://www.sparrowhawkdata.com/posts/2024-07-22-makeover-monday/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/2024-07-22-makeover-monday/</guid>
+      <description>I was doing some digging on measures of mental wellbeing for a survey development project (it&amp;rsquo;s always good to stay up-to-date on current measures) when I came across a report on the impact of COVID-19 on the mental health of Canadian post-secondary students. This was jointly published by the Mental Health Commission of Canada (MHCC) and the Canadian Association of Colleges and University Student Services (CACUSS).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/2024-07-22-makeover-monday/featured.png" />
+    </item>
+    
+    <item>
+      <title>Data Viztory: Cave Star Charts</title>
+      <link>https://www.sparrowhawkdata.com/posts/data-viztory-cave-star-charts/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/data-viztory-cave-star-charts/</guid>
+      <description>Join us as we explore the ways data have been visualized throughout history, from ancient times to the modern era.
+Today, we look at cave star charts, which are (hypothetically) rudimentary celestial maps found among Upper Paleolithic cave art! Maps are among the oldest kinds of data visualization, and maps of the stars have played an important role in navigation throughout history, going back&amp;hellip; well, as far as we know.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/data-viztory-cave-star-charts/featured.png" />
+    </item>
+    
+    <item>
+      <title>Makeover Monday: July 15, 2024</title>
+      <link>https://www.sparrowhawkdata.com/posts/2024-07-15-makeover-monday/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/2024-07-15-makeover-monday/</guid>
+      <description>I saw this excellent slope chart from the European Correspondent while browsing Instagram, and wanted to remake the left side. Slope charts are great at demonstrating the direction of change, and this chart certainly makes the point that spending in (nearly) all countries has increased (not you, Iceland).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/2024-07-15-makeover-monday/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elements of Dataviz Style: Keeping It Simple</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-keeping-it-simple/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-keeping-it-simple/</guid>
+      <description>I frequently see charts with too many dimensions, 3D shapes, or awful tangentially-related clip art. Generally, artistic elements should be functional and we should avoid unnecessary complexity.
+Now, complexity is fine. Often we simply fail at making complexity approachable.
+Beauty is important (how else do we expect viz to catch the eye?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-keeping-it-simple/featured.png" />
+    </item>
+    
+    <item>
+      <title>Makeover Monday: July 8, 2024</title>
+      <link>https://www.sparrowhawkdata.com/posts/2024-07-08-makeover-monday/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/2024-07-08-makeover-monday/</guid>
+      <description>I came across this chart just browsing Instagram and thought I could do better. The gold colour of the &amp;ldquo;put into savings&amp;rdquo; category calls attention to it quickly (&amp;ldquo;wow, only a quarter of Americans plan to save their refund?!&amp;rdquo;), but there&amp;rsquo;s a larger story here.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/2024-07-08-makeover-monday/featured.png" />
+    </item>
+    
+    <item>
+      <title>Data Viztory: Tally Bones</title>
+      <link>https://www.sparrowhawkdata.com/posts/data-viztory-tally-bones/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/data-viztory-tally-bones/</guid>
+      <description>Join us as we explore the ways data have been visualized throughout history, from ancient times to the modern era.
+Today, we look at tally bones, which are the oldest form of data visualization discovered to date!
+What are tally bones? # Tally bones are elongated pieces of bone marked with notches.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/data-viztory-tally-bones/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elements of Dataviz Style: Selecting a Chart Type</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-selecting-a-chart-type/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-selecting-a-chart-type/</guid>
+      <description>Welcome to &amp;lsquo;Elements of Dataviz Style&amp;rsquo;, where I&amp;rsquo;ll be distilling data visualization research and best practices down into guiding design principles.
+We&amp;rsquo;ve all seen bad charts.
+Chances are, their creators weren&amp;rsquo;t guided by any principles, but just figured things out as they went. I worked this way for a long time, and my early charts were awful.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-selecting-a-chart-type/featured.png" />
+    </item>
+    
+    <item>
+      <title>Makeover Monday: July 1, 2024</title>
+      <link>https://www.sparrowhawkdata.com/posts/2024-07-01-makeover-monday/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/2024-07-01-makeover-monday/</guid>
+      <description>A friend linked me to a pie chart published by the Government of British Columbia on Instagram because they weren&amp;rsquo;t sure if they were interpreting it properly. The confusion was certainly warranted. My first reaction: &amp;ldquo;Is this a parody account?&amp;rdquo; That&amp;rsquo;s not the impression you want your dataviz to have.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/2024-07-01-makeover-monday/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

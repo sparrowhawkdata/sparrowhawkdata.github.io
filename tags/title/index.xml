@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Title on Sparrowhawk Data</title>
+    <link>https://www.sparrowhawkdata.com/tags/title/</link>
+    <description>Recent content in Title on Sparrowhawk Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sparrowhawk Data</copyright>
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sparrowhawkdata.com/tags/title/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elements of Dataviz Style: Crafting Good Titles</title>
+      <link>https://www.sparrowhawkdata.com/posts/eodvs-titles/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/posts/eodvs-titles/</guid>
+      <description>Most leaders in the data visualization space maintain that visualizations should have a clear, focused message.
+Stephanie Evergreen (of Evergreen Data) says that we &amp;ldquo;visualize to communicate a point.&amp;rdquo; If we don&amp;rsquo;t have a point, why visualize?
+Mike Bostock (of Observable, and d3.js fame) says good dataviz &amp;ldquo;should be opinionated.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/posts/eodvs-titles/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

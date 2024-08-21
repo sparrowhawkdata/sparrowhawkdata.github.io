@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Area on Sparrowhawk Data</title>
+    <link>https://www.sparrowhawkdata.com/tags/area/</link>
+    <description>Recent content in Area on Sparrowhawk Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sparrowhawk Data</copyright>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sparrowhawkdata.com/tags/area/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;Rural Connectivity&#39; Area Chart</title>
+      <link>https://www.sparrowhawkdata.com/gallery/rural-connectivity-area-chart/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sparrowhawkdata.com/gallery/rural-connectivity-area-chart/</guid>
+      <description>I redesigned a confusing pie chart into this area chart.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sparrowhawkdata.com/gallery/rural-connectivity-area-chart/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
